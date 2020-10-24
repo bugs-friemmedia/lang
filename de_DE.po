@@ -28,7 +28,7 @@ msgstr ""
 "Sie können einen passenden thermischen Sensor / Modul %shier%s konfigurieren."
 
 msgid "Only show first found CPU core temperature"
-msgstr ""
+msgstr "Zeige die Temperatur der ersten gefundenen CPU"
 
 msgid "Core Critical:"
 msgstr "Kritischer Kern:"
@@ -82,7 +82,7 @@ msgid "Versions"
 msgstr "Versionen"
 
 msgid "Comma-separated list of services to NOT display in the widget"
-msgstr ""
+msgstr "Komma-separierte Liste von Diensten die NICHT im Widget angezeigt werden"
 
 msgid "Show how many characters from story:"
 msgstr "Wieviele Zeichen sollen aus dem Verlauf angezeigt werden:"
@@ -131,28 +131,28 @@ msgid "No active peers available"
 msgstr "Keine aktiven Peers verfügbar"
 
 msgid "Rows"
-msgstr ""
+msgstr "Reihe"
 
 msgid "Not changed"
-msgstr ""
+msgstr "Nicht geändert"
 
 msgid "Changed"
-msgstr ""
+msgstr "Geändert"
 
 msgid "Failed"
-msgstr ""
+msgstr "Mißlungen"
 
 msgid "Act"
 msgstr "Handlung"
 
 msgid "Interfaces to display:"
-msgstr ""
+msgstr "Interface, das angezeigt werden soll:"
 
 msgid "Update interval in seconds:"
-msgstr ""
+msgstr "Aktualisierungsintervall in Sekunden:"
 
 msgid "Number of log entries:"
-msgstr ""
+msgstr "Anzahl der Log-Einträge:"
 
 msgid "Note: There are no configured IPsec Tunnels"
 msgstr "Hinweis: Es sind keine konfigurierten IPsec Tunnel vorhanden"
@@ -191,10 +191,10 @@ msgid "Packets In"
 msgstr "Pakete eingehend"
 
 msgid "Show"
-msgstr ""
+msgstr "Zeige"
 
 msgid "Hide"
-msgstr ""
+msgstr "Verstecke"
 
 #, php-format
 msgid "No CARP Interfaces Defined. Click %shere%s to configure CARP."
